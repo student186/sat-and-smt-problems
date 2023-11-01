@@ -14,7 +14,7 @@ A Java program that solves the graph coloring and Sudoku problems by using SAT a
 1. Install the Z3 Java binding (https://github.com/Z3Prover/z3)
 2. Open IntelliJ IDEA
 3. Open the terminal of IntelliJ IDEA and navigate to the program’s directory: ...\solvers
-4. Then type the following commands in the terminal of Visual Studio Code:
+4. Then type the following commands in the terminal of IntelliJ IDEA:
 - javac -cp lib/com.microsoft.z3.jar -d bin -sourcepath src src/cmpt/Main.java
 - java -cp "bin;lib/com.microsoft.z3.jar" cmpt.Main
 
